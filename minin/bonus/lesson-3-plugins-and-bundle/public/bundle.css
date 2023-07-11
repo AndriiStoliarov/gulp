@@ -1,0 +1,21 @@
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.footer .test {
+  font-size: 100px;
+}
+
+body {
+  font-size: 20px;
+}
+body .app {
+  background-color: red;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvb3Rlci5sZXNzIiwiaW5kZXgubGVzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLG9CQUFBO0VBQUEsb0JBQUE7RUFBQSxhQUFBO0VBQ0EsNEJBQUE7RUFBQSw2QkFBQTtFQUFBLDBCQUFBO0VBQUEsc0JBQUE7O0FBQ0EsT0FBQTtFQUNJLGdCQUFBOzs7QUNKUjtFQUNJLGVBQUE7O0FBRUEsSUFBQTtFQUNJLHFCQUFBIiwiZmlsZSI6ImJ1bmRsZS5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuZm9vdGVyIHtcbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgJiAudGVzdCB7XG4gICAgICAgIGZvbnQtc2l6ZTogMTAwcHg7XG4gICAgfVxufSIsImJvZHkge1xuICAgIGZvbnQtc2l6ZTogMjBweDtcblxuICAgICYgLmFwcCB7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDtcbiAgICB9XG59Il19 */

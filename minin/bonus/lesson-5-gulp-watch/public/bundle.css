@@ -1,0 +1,25 @@
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.footer .test {
+  font-size: 100px;
+}
+
+body {
+  font-size: 20px;
+}
+body .app {
+  background-color: deeppink;
+  font-weight: bold;
+}
+body .app .test2 {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
