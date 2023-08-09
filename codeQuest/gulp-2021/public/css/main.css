@@ -1,0 +1,49 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font: 22px/1.5 Arial;
+  background: url("../img/bg.jpg") no-repeat center/cover;
+}
+
+.news {
+  list-style: none;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+@supports (-webkit-appearance:none) {
+  body {
+    background: url("../img/bg.webp") no-repeat center/cover;
+  }
+}
+
+@media (max-width: 700px) {
+  body {
+    color: #fff;
+    background-color: #000;
+  }
+
+  .news {
+    display: block;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+@supports (-webkit-appearance:none) {
+
+}
+}
