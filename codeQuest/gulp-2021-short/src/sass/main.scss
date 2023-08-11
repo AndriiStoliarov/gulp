@@ -1,0 +1,27 @@
+$base-font-size: 22px;
+
+@mixin ph {
+    @media (max-width: 700px) {
+        @content;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: $base-font-size;
+    font-family: Arial;
+    line-height: 1.5;
+    // cover use with center value or use separately
+    background: url("../img/bg.jpg") no-repeat center / cover;
+    // background-size: cover;
+
+    @include ph {
+        color: #fff;
+        background-color: #000;
+    }
+}
+
+@import "block/*.scss";
