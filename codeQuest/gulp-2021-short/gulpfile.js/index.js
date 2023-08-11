@@ -40,6 +40,6 @@ exports.img = task.img;
 exports.font = task.font;
 
 // Сборка
+exports.default = $.app.isProd ? build : dev;
 // exports.dev = dev;
 // exports.build = build;
-exports.default = $.app.isProd ? build : dev;
