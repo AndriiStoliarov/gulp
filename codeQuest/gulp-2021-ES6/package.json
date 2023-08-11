@@ -21,6 +21,7 @@
   "devDependencies": {
     "@babel/core": "^7.22.9",
     "@babel/preset-env": "^7.22.9",
+    "@babel/register": "^7.22.5",
     "browser-sync": "^2.29.3",
     "del": "^6.1.1",
     "gulp": "^4.0.2",
@@ -51,7 +52,6 @@
     "gulp-webp": "^4.0.1",
     "gulp-webp-css": "^1.1.0",
     "gulp-webp-html": "^1.0.2",
-    "require-dir": "^1.2.0",
     "sass": "^1.64.1",
     "webpack": "^5.88.2",
     "webpack-stream": "^7.0.0"

@@ -1,7 +1,10 @@
+import news from "../data/news.json";
+// import news from "../data/news.json" assert { type: "json" }; // use without plugin @babel/register
+
 const isProd = process.argv.includes("--production");
 const isDev = !isProd;
 
-module.exports = {
+export default {
     isProd: isProd,
     isDev: isDev,
 
@@ -12,7 +15,7 @@ module.exports = {
     pug: {
         pretty: isDev,
         data: {
-            news: require('../data/news.json')
+            news: news
         }
     },
 
