@@ -1,3 +1,4 @@
+// Пакеты
 const { src, dest } = require("gulp");
 
 // Конфигурация

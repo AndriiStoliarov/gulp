@@ -1,4 +1,6 @@
+// Пакеты
 const { src, dest } = require("gulp");
+const browserSync = require("browser-sync").create();
 
 // Конфигурация
 const path = require("../config/path.js");
@@ -9,9 +11,8 @@ const plumber = require("gulp-plumber");
 const notify = require("gulp-notify");
 const babel = require("gulp-babel"); // преобразовывает код в синтаксис ES5
 // const uglify = require("gulp-uglify"); // минифицирует, не нужен при исп. webpack
-const gulpIf = require("gulp-if");
 const webpack = require("webpack-stream");
-const browserSync = require("browser-sync").create();
+const gulpIf = require("gulp-if");
 
 // Обработка JavaScript
 const js = () => {
