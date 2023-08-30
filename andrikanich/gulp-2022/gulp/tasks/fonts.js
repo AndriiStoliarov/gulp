@@ -1,5 +1,5 @@
 import fs from 'fs';
-import fonter from 'gulp-fonter';
+import fonterUnx from 'gulp-fonter-unx';
 import ttf2woff2 from 'gulp-ttf2woff2';
 
 export const otfToTtf = () => {
@@ -12,7 +12,7 @@ export const otfToTtf = () => {
             })
         ))
         // Конвертируем .ttf
-        .pipe(fonter({
+        .pipe(fonterUnx({
             formats: ['ttf']
         }))
         // Выгружаем в исходную папку
@@ -29,7 +29,7 @@ export const ttfToWoff = () => {
             })
         ))
         // Конвертируем .woff
-        .pipe(fonter({
+        .pipe(fonterUnx({
             formats: ['woff']
         }))
         // Выгружаем в папку c результатом
