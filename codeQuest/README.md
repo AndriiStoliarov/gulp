@@ -1,6 +1,8 @@
 # CodeQuest
 Gulp-starter from CodeQuest.
 
+Video [Youtube](https://www.youtube.com/watch?v=qSZvGlIKGPg).
+
 ![title](screenshots/screenshot-1.png)
 
 ![content](screenshots/screenshot-2.png)
