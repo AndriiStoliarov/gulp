@@ -1,14 +1,11 @@
 # CodeQuest
+
 Gulp-starter from CodeQuest.
 
 Video [Youtube](https://www.youtube.com/watch?v=qSZvGlIKGPg).
 
-![title](screenshots/screenshot-1.png)
-
-![content](screenshots/screenshot-2.png)
-
-![modules](screenshots/screenshot-3.png)
-
-![browser-sync](screenshots/screenshot-4.png)
-
-![fonts](screenshots/screenshot-5.png)
+![title page 1](data/title.png)
+![content page 2](data/content.png)
+![modules page 3](data/modules.png)
+![browser-sync page 4](data/browser-sync.png)
+![fonts page 5](data/fonts.png)
