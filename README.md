@@ -4,7 +4,7 @@
 
 ## codeQuest
 
-Complete Gulp Course. Gulp starter.
+Complete Gulp course and Gulp starter
 
 ## coderFolder
 
