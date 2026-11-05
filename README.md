@@ -6,7 +6,7 @@
 
 Complete Gulp course and Gulp starters
 
-## coderFolder
+## 3DHost
 
 Full course on Gulp
 
