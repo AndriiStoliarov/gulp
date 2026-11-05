@@ -4,11 +4,11 @@
 
 ## codeQuest
 
-Complete Gulp course and Gulp starter
+Complete Gulp course and Gulp starters
 
 ## coderFolder
 
-jQuery course for beginners
+Full course on Gulp
 
 ## freelancerLifeStyle
 
