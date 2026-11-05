@@ -8,8 +8,6 @@ This project was coded line-by-line for practice and learning purposes, followin
 
 Base configuration setup
 
-**Tutorial video:** [YouTube](https://www.youtube.com/watch?v=qSZvGlIKGPg)
-
 ## gulp-2021-ES6
 
 ES6 syntax integration
@@ -17,6 +15,8 @@ ES6 syntax integration
 ## gulp-2021-short
 
 Short configuration version
+
+**Tutorial video:** [YouTube](https://www.youtube.com/watch?v=qSZvGlIKGPg)
 
 ![title page 1](data/title.png)
 ![content page 2](data/content.png)
