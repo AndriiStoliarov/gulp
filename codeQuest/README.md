@@ -4,6 +4,8 @@
 
 This project was coded line-by-line for practice and learning purposes, following the tutorial by [CodeQuest](https://www.youtube.com/@CodeQuestRu).
 
+**Tutorial video:** [YouTube](https://www.youtube.com/watch?v=qSZvGlIKGPg)
+
 ## gulp-2021-base
 
 Base configuration setup
@@ -15,10 +17,6 @@ ES6 syntax integration
 ## gulp-2021-short
 
 Short configuration version
-
----
-
-**Tutorial video:** [YouTube](https://www.youtube.com/watch?v=qSZvGlIKGPg)
 
 ![title page 1](data/title.png)
 ![content page 2](data/content.png)
