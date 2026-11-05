@@ -1,8 +1,12 @@
-# CodeQuest
+# codeQuest
 
-Gulp-starter from CodeQuest.
+**Credits & acknowledgments**
 
-Video [Youtube](https://www.youtube.com/watch?v=qSZvGlIKGPg).
+This project was coded line-by-line for practice and learning purposes, following the tutorial by [CodeQuest](https://www.youtube.com/@CodeQuestRu).
+
+## gulp-2021-base/-ES6/-short
+
+**Tutorial video:** [YouTube](https://www.youtube.com/watch?v=qSZvGlIKGPg)
 
 ![title page 1](data/title.png)
 ![content page 2](data/content.png)

@@ -4,7 +4,7 @@
 
 ## codeQuest
 
-jQuery - Beau teaches JavaScript
+Complete Gulp Course. Gulp starter.
 
 ## coderFolder
 
