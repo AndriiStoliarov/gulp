@@ -16,4 +16,4 @@ Detailed Gulp configuration guide for fast project bundling
 
 ## vladilenMinin
 
-jQuery fundamentals course
+Gulp in 30 minutes
