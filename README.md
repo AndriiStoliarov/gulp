@@ -12,7 +12,7 @@ Full course on Gulp
 
 ## freelancerLifeStyle
 
-jQuery course for beginners
+Detailed Gulp configuration guide for fast project bundling
 
 ## vladilenMinin
 
